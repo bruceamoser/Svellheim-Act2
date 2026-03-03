@@ -1,0 +1,39 @@
+{
+  "_id": "wtOffluC4ZEszMZH",
+  "name": "Beat 11 — Deeper Descent (Rot Passages)",
+  "type": "draw-steel-montage.montageTest",
+  "img": "icons/svg/clockwork.svg",
+  "system": {
+    "description": "<p>The deeper descent from the bioluminescent grotto into Rot-infected passages. The party must navigate increasingly corrupted tunnels where the Root-Runes on the walls are blackened and the stone itself shows veins of dark corruption. Kaelen can read the Rot's progress. Getting through requires careful movement, Rot-avoidance, and supporting Kaelen as she processes increasingly disturbing information.</p>",
+    "difficulty": "hard",
+    "successLimit": 4,
+    "failureLimit": 2,
+    "complications": {
+      "round1": "<p>The passages below the grotto are Rot-infected — black veins run through the stone, Root-Runes are screaming silently. Kaelen slows to read them, increasingly disturbed. The air is wrong. The party must navigate while keeping Kaelen moving and protecting her focus.</p><ul><li><strong>Intuition:</strong> Detect which tunnel sections are structurally compromised by Rot corruption vs. which are merely discolored (collapsing tunnels are a risk).</li><li><strong>Reason:</strong> Help Kaelen interpret what she's reading on the walls: \"Yggdrasil's roots are literally rotting.\" Assist with her analysis so she doesn't fall behind.</li><li><strong>Might:</strong> Clear Rot-bloated fungal growth blocking passage entrances (the growth is not aggressive but is dense).</li><li><strong>Presence:</strong> Keep the group moving when the oppressive wrongness of the passage makes heroes want to stop and turn back.</li></ul>",
+      "round2": "<p>The final section of passage is choked with Rot-Echoes — not yet combat-triggering, but actively trying to find warm flesh. The party must avoid triggering a combat encounter while getting everyone through.</p><ul><li><strong>Agility:</strong> Move silently through a section where Rot-Echo clusters hover near the ceiling (disturbing them triggers combat).</li><li><strong>Intuition:</strong> Identify the Rot-Echoes' patrol pattern and find gaps in their movement.</li><li><strong>Reason:</strong> Recall whether Root-Rune symbols on the passage walls can be activated to temporarily suppress Rot-Echoes (they can — moderate DC).</li><li><strong>Presence:</strong> Keep a frightened hero from making noise as they pass through the cluster.</li></ul>"
+    },
+    "outcomes": {
+      "round1": "<p><strong>Total Success:</strong> The party moves efficiently. Kaelen completes her reading and delivers her conclusion: \"If the dead can think, they can plan. Something intelligent is organizing them.\" No structural collapses. The party reaches the exit passage ahead of schedule.<br><strong>Partial Success:</strong> Progress made but one structural collapse forces a detour. Each hero takes 3 damage from falling stone dust and debris. Kaelen's analysis is incomplete — she knows something directs the dead but not more.<br><strong>Failure:</strong> A Rot-weakened section of tunnel collapses. The party must dig through or backtrack (1 hour delay). Each hero takes 6 damage. Two heroes gain the weakened condition until they take a breather.</p>",
+      "round2": "<p><strong>Total Success:</strong> The party slips through without triggering a single Rot-Echo. They emerge into the exit passage clear and undetected. Kaelen notes: \"The Rot is getting thicker this direction. We're moving toward the source.\"<br><strong>Partial Success:</strong> One Rot-Echo is disturbed and attaches briefly to a hero (4 cold damage) before being shaken off. The rest pass safely.<br><strong>Failure:</strong> The Rot-Echoes swarm — combat triggers immediately. 3 Rot-Echoes + 1 Barrow-Draugr (drawn by the Echoes' agitation).</p>"
+    },
+    "participants": []
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

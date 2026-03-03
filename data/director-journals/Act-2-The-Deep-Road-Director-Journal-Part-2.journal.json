@@ -1,0 +1,183 @@
+{
+  "_id": "aGaFkOX6zYjAd9Fs",
+  "name": "Act 2 — The Deep Road (Director Journal, Part 2)",
+  "pages": [
+    {
+      "_id": "7V852nX76rY6WurW",
+      "name": "Beat 15 — The Ivory Tower",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 15 — The Ivory Tower</h2><p><strong>Level:</strong> 4</p><h3>Overview</h3><p>The Tower rises 60ft from the Bone-Fields, built from giant bones. No windows in the lower 30ft. The stone is warm to the touch despite Fimbulwinter cold. The door is unlocked.</p><h3>Violence Chamber</h3><p>Lower chamber: bones of Keeper Soren, killed here recently. Scorch marks. Claw marks 8ft up the wall — deliberate and methodical.</p><div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\"><h4 style=\"margin-top:0; color:#ff6666;\">⚠ GM Secret: The Claw Marks</h4><p>The marks are Dreyfus's — left in hound form when he came for Soren. They are a Wyrd-binding signature. Kaelen can recognize this pattern with a Hard Reason test. She will not say aloud what she suspects. She does not yet believe what she's reading.</p></div><h3>Guardian Construct (Optional)</h3><p>A Keeper-Guardian Construct (Elite Controller) is dormant in the upper chamber. It wakes when the party enters. It recognizes Kaelen's ember-mark and will not attack her. Opening challenge: present the Bundingsteinn rubbing or have Kaelen recite a Keeper formula. On success: the Construct stands aside. On failure: combat (it will not pursue outside).</p><h3>The Archive</h3><p>Maps of the Emberwell approach. Evidence that someone read these recently — different handwriting annotates the margins in a hand the party will see again.</p><h3>The Willing Anchor Text</h3><p>Center tablet. Kaelen reads fragments aloud, then stops:</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"The one who takes the flame becomes the Ever-Ember. They do not die, but do not live as others live. They become the anchor. The living warmth. The cost of the Kindling is the self.\"</p></blockquote><p>She closes the tablet. Goes to the window. Says nothing for 2 full minutes of real time. Do not fill the silence.</p><p>If a hero speaks: <em>\"I know what I have to do. I've known since the Ivory Tower. I just needed to see it written.\"</em></p><div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\"><h4 style=\"margin-top:0; color:#ff6666;\">⚠ GM Secret: Kaelen's State</h4><p>She now knows the price. She has not told the party. She has not yet decided whether to. Lew will notice she has changed — not sad, but settled, like someone who has stopped arguing with a conclusion. Do not rush this reveal. It completes in Beat 19.</p></div><h3>Surt's Forge Sighting</h3><p>From the tower height: warm amber light in frozen darkness to the north. Surt's Forge, visible for the first time. Distance approximately 60 miles.</p><h3>Player Handout</h3><p>Deliver <em>\"The Willing Anchor\"</em> — the First Kindling rite text excerpt Kaelen read.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 10,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "S8x4rA1A54gM7dfp",
+      "name": "Beat 16 — Beinvaka",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 16 — Beinvaka</h2><p><strong>Level:</strong> 4</p><h3>Overview</h3><p>Beinvaka: former trade post, now the Pale Maw's northern staging area. An inverted fire-pit at its center burns cold blues and purples. Entropy sigils on every doorframe. 20–30 cultists. Þráinn Ashward visible on the keep steps.</p><h3>The Ultimatum</h3><p>If party enters openly, Þráinn descends. No hostility in his posture:</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"Leave the Keeper with us. She will not be harmed. We are ending the world as a mercy — and she should see it properly completed. Or we will take her. Those are the options.\"</p></blockquote><h3>Three Resolution Paths</h3><p><strong>Path 1: Combat</strong> — Þráinn (Boss) + Yrsa Frostbane (on rooftop) + 20–30 cultists. Very Hard. Not designed to be won straight. Party should retreat or use environment creatively. If they win: Pale Maw significantly weakened for Beat 18.</p><p><strong>Path 2: Mad Dash Montage</strong> — Run Beat 16 — The Mad Dash (Hard, SL 5 / FL 2). Mid-montage interlude:</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"A guard turns — looks directly at where you are. Their lamp sweeps across your position. Silence. Their gaze slides away. As if they cannot process what they're seeing.\"</p></blockquote><p>This is Lew's Wyrd-gift activating under extreme stress. Not invisibility — wrongness-of-presence. It does not trigger again. It is never explained to Lew or the party.</p><p><strong>Path 3: Elder Negotiation</strong> — Run Beat 16 — Pale Maw Elder Negotiation (Very Hard, Interest 1, Patience 2). The Elder does not agree with Þráinn's methods. Full success: passage for 12 hours, Þráinn held back.</p><div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\"><h4 style=\"margin-top:0; color:#ff6666;\">⚠ Negotiation Auto-Fail Triggers</h4><ul><li>Revealing Kaelen's identity aloud — Elder summons Þráinn immediately.</li><li>Arguing Fimbulwinter should stop — the Pale Maw considers this proof of ignorance.</li><li>Defending the Ever-Ember as sacred — pitfall (they see it as a chain, not a gift).</li><li>\"Save the world\" rhetoric — treated as insult.</li></ul></div><h3>Post-Escape</h3><p>Þráinn's psychic wail: brief pressure behind the eyes, cold white flash, smell of ash. He is relaying the party's direction through the Pale Maw network. On full montage success: wrong direction sent. Party gains 1–2 day lead.</p><h3>Player Handout</h3><p>Deliver <em>\"The Pale Maw's Ultimatum\"</em> — Þráinn's offer as the party would remember it.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 20,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "n8GxuzfV23Hl5rti",
+      "name": "Beat 17 — The Steam-Oasis",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 17 — The Steam-Oasis</h2><p><strong>Level:</strong> 4</p><h3>Overview</h3><p>A 200-yard circle of geothermal warmth: alien blue, silver, and rust plants, mineral pools, constant steam. Elder Thyra and the Heitfolk community. The Oath of Silence is the price of hospitality.</p><h3>Thyra's Oath</h3><p>Thyra meets the party at the edge. The terms are final: swear silence on the Oasis's location and receive full hospitality; refuse and be pointed north with no aid. The oath text she requires:</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"We swear silence on this place. Its location does not leave our mouths or our records. The warmth here is not ours to share.\"</p></blockquote><div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\"><h4 style=\"margin-top:0; color:#ff6666;\">⚠ The Oath Collision</h4><p>The Advocacy Oath (Beat 13) bound the party to advocate for Rindgate's refugees at any authority. The Oasis is a viable refuge for those refugees. Keeping the Silence Oath and the Advocacy Oath simultaneously is impossible. Both cost −1 Word if broken. Present both oaths. Let the players decide. Do not solve it for them.</p></div><h3>Quiet Moment — Lew and Kaelen</h3><p>During rest, Lew is found near the mineral pools watching Kaelen trace Root-Runes in rust-coloured mineral dust. He does not interrupt. If approached: <em>\"Making sure she doesn't wander.\"</em></p><div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\"><h4 style=\"margin-top:0; color:#ff6666;\">⚠ GM Secret: Lew</h4><p>He understood the price of the Willing Anchor when Kaelen went silent in the Ivory Tower. He is spending every remaining hour near her because he knows that at the end he will lose her. Neither has said it aloud.</p></div><h3>Heitfolk Optional Thread</h3><p>Bolverkt (Djúphól scout, upper ledge south of Oasis) knows a route to Hildvarð's forge. If pursued:</p><ul><li>Hildvarð Bruneson needs vent repair — run Beat 17 — Heitfolk Vent Repair montage (Hard, SL 4 / FL 2).</li><li>Reward on success: <strong>Hildvarð's Sealed Iron Canteen</strong>. He says nothing when he gives it. The gift is the speech.</li><li>Bolverkt's parting words (speak in character): <em>\"Does the sun really shine like the old stories say? Like warmth you can see?\"</em></li></ul><h3>The Throat of the World</h3><p>Run Beat 17 — Throat of the World Blizzard Crossing (Hard, SL 4 / FL 2) after the Oasis. Mid-montage: false clarity — blizzard drops, Surt's Forge visible for 5 clear minutes, then the storm returns worse than before. The Forge is close.</p><h3>Kaelen's Night Speech</h3><p>Night before the Forge approach. She sits apart. If a hero stays awake with her: <em>\"I know what I have to do. I don't want you to argue with it. I want you to trust that I know what I'm doing.\"</em> She will not say what it is.</p><h3>Player Handout</h3><p>Deliver <em>\"The Oath of Silence\"</em> — Elder Thyra's oath terms and the collision with the Advocacy Oath.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 30,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "MLHpKuesQx7KHlEQ",
+      "name": "Beat 18 — Surt's Forge",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 18 — Surt's Forge</h2><p><strong>Level:</strong> 4</p><h3>Overview</h3><p>Ancient forge complex, amber glow, warm stone, approach plaza carved with Keeper runes. The Pale Maw strike team is already present — they arrived hours ahead.</p><h3>Pre-Dawn Vigil</h3><p>Party arrives before dawn. Kaelen performs the Keeper rite at first light. A quiet moment before:</p><p>Lew is awake, watching her. Does not speak. If pressed: <em>\"I'm not afraid.\"</em> Silence as answer is correct — do not narrate on his behalf.</p><h3>The Morning Rite Decoded</h3><p>Kaelen stops partway through the rite. Looks at the carvings. <em>\"Wait.\"</em> She traces them — not performing, reading for the first time as geography. She begins to cry without acknowledging it.</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"The Keeper knew. They left a breadcrumb trail. Every word of the rite is a direction. The whole prayer is a map to the Emberwell.\"</p></blockquote><h3>Ritual Sequence</h3><ol><li>Kaelen speaks the final line of the rite.</li><li>Symbol-circle on the plaza floor activates — carvings glow old-gold in sequence.</li><li>A stone doorway in the forge wall is revealed (was invisible).</li><li>Warm air flows from the passage: <em>\"It smells like summer. I haven't smelled summer in three years.\"</em></li></ol><h3>Strike Team Combat</h3><p><strong>Enemies:</strong> Þráinn Ashward (Boss) — or Yrsa Frostbane if Þráinn was defeated in Beat 16 — plus 2 Pale Maw Operatives + 1 Pale Maw Zealot. ES ~52.</p><p><strong>Objective: Defend Kaelen for 3 rounds.</strong> She is inside the symbol-circle and cannot be targeted until the circle is broken. The Boss will try to break it. On Round 3: the stone doorway fully opens. Kaelen steps through. The circle closes behind her.</p><h3>After Combat</h3><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"From here, I go alone. You keep watch at the threshold. Whatever comes through that door after me — it isn't me.\"</p></blockquote><p>She descends. The doorway remains open. Warm golden light from below.</p><h3>Player Handout</h3><p>Deliver <em>\"The Morning Rite — A Map\"</em> — the rite text with Kaelen's decoded geographic notations in her handwriting.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 40,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "gaHamBvCEY5VGPO7",
+      "name": "Beat 19 — The Ember-Chamber",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 19 — The Ember-Chamber</h2><p><strong>Level:</strong> 4 → <strong>Level-Up to 5</strong></p><h3>Overview</h3><p>200ft across, 100ft high. The ceiling breathes — visibly contracts and expands every 40 seconds. Gold-warm root-tendrils across every surface. Half the roots are blackened by rot. Center: the ember-seed, a 1ft sphere of white-gold pulsing light.</p><h3>Party Position</h3><p>At threshold (top of stairway, 60ft from floor). Ranged attacks from here take −1 to distance. Heroes can descend (1 move action to reach the floor) or hold the high ground.</p><h3>Combat</h3><p><strong>Enemies:</strong> 1 Grave-Construct (Boss, Elite) + 2 Rot-Touched (flanking the stairway exit).</p><p><strong>Keeper's Bane (Grave-Construct Villain Action):</strong> High-damage ranged strike targeting Kaelen directly. A hero adjacent to Kaelen can intercept as a triggered action, taking the damage instead. This decision point arises in Round 2 or 3.</p><h3>Kaelen's Progress</h3><ul><li><strong>Round 5:</strong> Kaelen reaches the ember-seed (she has been moving toward it steadily regardless of combat).</li><li><strong>Round 6:</strong> Both hands on the seed. The chamber goes silent — all sound stops for 6 real seconds.</li><li><strong>Resolution:</strong> The seed pulses once. A wave of warmth outward. The Grave-Construct's rot dissipates. The Rot-Touched collapse.</li></ul><h3>The Revelation</h3><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"This is not the Emberwell. I thought — the texts said this was the place. But this is a relay. A waypoint. The Emberwell is not here.\"</p></blockquote><p>She stands. Her face: not devastated. Resolved.</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"The Keepers are dead. The Order is finished. I am the last. And I have to go further.\"</p></blockquote><h3>The Green Heart</h3><p><em>\"Not here. The place where the roots converge. The Green Heart — the old texts called it that. I know where it is. We have to go south.\"</em></p><div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\"><h4 style=\"margin-top:0; color:#ff6666;\">⚠ GM Secret: Lew</h4><p>His amber eye activates without him choosing it. He sees a direction. He understands — not the geography, but what it means. When they reach the Green Heart, Kaelen will fulfill the Willing Anchor rite. He will lose her. He cannot say this aloud. Saying it confirms the conclusion he has been refusing since the Ivory Tower.</p></div><h3>Lew's Offer</h3><p>Before Kaelen explains navigation, Lew speaks — the first time he has been anything other than combat-focused this beat:</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"South. South-southeast. The roots are pulling south-southeast. I'll lead.\"</p></blockquote><p>He does not explain how he knows. He looks at Kaelen. She looks at him. Neither speaks. Then she nods.</p><h3>The Reaching</h3><p>In a quiet moment before leaving the chamber: Lew's two fingers brush Kaelen's sleeve. Not a hand-hold. Just contact. She stops. He says, quietly:</p><blockquote style=\"border-left:4px solid #c4a03c; padding:8px 14px; font-style:italic; color:#e0d8c8; background:#2a2a3a;\"><p>\"Take me somewhere safe when it's done.\"</p></blockquote><p>She does not answer. She walks toward the stairs. He follows.</p><div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\"><h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Note</h4><p>Do not underline this moment. Do not call attention to it. If a player asks what he meant: \"Lew doesn't clarify.\" If a player asks Kaelen, she shakes her head. The scene is complete.</p></div><h3>Act 2 Ends</h3><p>The party holds Surt's Forge. Kaelen has changed. Lew has said the thing he cannot take back. Destination: south-southeast, the Green Heart. <strong>Level-Up to 5.</strong> Full Respite at Surt's Forge before Act 3.</p><h3>Player Handout</h3><p>Deliver <em>\"Kaelen's Words at the Emberwell\"</em> — her revelation speech as the party would remember it.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 50,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

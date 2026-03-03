@@ -1,0 +1,39 @@
+{
+  "_id": "pe0Lj0fyenwQuu5G",
+  "name": "Beat 13 — Skirting the Lakes",
+  "type": "draw-steel-montage.montageTest",
+  "img": "icons/svg/clockwork.svg",
+  "system": {
+    "description": "<p>The party must skirt the shores of Hornvatn and Urdvatn — two lakes bordering the approach to Rindgate. Hornvatn is solid ice but shows patrol depressions worn into it; something has been walking regular circuits. Urdvatn has thin ice, rising steam, and a longship-sized shadow moving deliberately beneath. This is a short, tense montage. Total failure means the Lakewalker Draugr encounter triggers immediately.</p>",
+    "difficulty": "hard",
+    "successLimit": 3,
+    "failureLimit": 1,
+    "complications": {
+      "round1": "<p>The party must cross the narrow strip of land between Hornvatn's treeline and Urdvatn's shore without triggering whatever patrols the ice or wakes whatever is beneath Urdvatn. The window is narrow — the patrol circuit on Hornvatn returns every 20 minutes.</p><ul><li><strong>Agility:</strong> Move silently across snow-covered ground, avoiding the ice entirely (the crunchy ice near Urdvatn's shore is a noise risk).</li><li><strong>Intuition:</strong> Track the patrol timing on Hornvatn from the depression pattern. Identify the safe crossing window.</li><li><strong>Reason:</strong> Assess whether the shadow under Urdvatn has noticed the party yet — look for upward bow pressure in the ice and listening posture in the shadow's movement.</li><li><strong>Presence:</strong> Kaelen's ember-mark flares slightly near Urdvatn (it responds to what's beneath). Keep her calm and moving without looking at the water.</li></ul>",
+      "round2": "<p>N/A — this is a single-round short montage. The outcome determines whether the Lakewalker encounter triggers.</p>"
+    },
+    "outcomes": {
+      "round1": "<p><strong>Total Success:</strong> The party slips past both lakes undetected. The shadow under Urdvatn pauses, bows the ice once upward, then resumes its circuit. The party is already past. Kaelen: \"We don't go near the lakes. If what's in them realizes we've seen it, it will follow.\"<br><strong>Partial Success:</strong> The party gets past, but the shadow under Urdvatn turns and follows along the ice for several hundred yards before losing interest or depth. Tense but no combat.<br><strong>Failure:</strong> Something detected the party. Three Lakewalker Draugr emerge from Hornvatn's ice — not the shadow from Urdvatn, but the patrol. Combat triggers immediately (3 Lakewalker Draugr).</p>",
+      "round2": "<p>N/A — single round. See Round 1 outcome for all results.</p>"
+    },
+    "participants": []
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

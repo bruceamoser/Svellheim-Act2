@@ -1,0 +1,39 @@
+{
+  "_id": "LI3NicC8r6nhf39k",
+  "name": "Beat 14 — The Bone-Fields Crossing",
+  "type": "draw-steel-montage.montageTest",
+  "img": "icons/svg/clockwork.svg",
+  "system": {
+    "description": "<p>The Bone-Fields: a vast ancient battlefield where the bones of giants and soldiers have calcified into the landscape itself. The party must cross this terrain — sterile snow, calcified bone-white ground, enormous rib-cages arching overhead, small human bones underfoot. Failure triggers the Barrow-Draugr + Bone-Singer combat encounter. Success determines whether the party crosses undiscovered. Read-aloud: \"You are stepping onto a landscape of white. Not pristine white, but the white of calcified bone.\"</p>",
+    "difficulty": "hard",
+    "successLimit": 5,
+    "failureLimit": 3,
+    "complications": {
+      "round1": "<p>Navigation in the Bone-Fields is disorienting — every direction looks the same. Enormous calcified ribcages and femurs serve as landmarks but also as ambush concealment. The party must keep moving north while managing the psychological weight of the landscape. The grass here simply stopped growing. The snow is sterile and strange.</p><ul><li><strong>Reason:</strong> Navigate by stellar or geological markers (the sky is overcast — this is hard; the Bone-Fields have no reliable landmarks).</li><li><strong>Intuition:</strong> Sense disturbances in the field — vibrations from bones starting to shift underfoot as the Barrow-Draugr begin to wake to the heat of living creatures.</li><li><strong>Might:</strong> Clear a path through a section of calcified bone-shelf collapse (enormous bones, some still sharp).</li><li><strong>Presence:</strong> One hero must keep the group's morale intact. The Bone-Fields are oppressively wrong — the smell of age, the silence, the knowledge that these were people once.</li></ul>",
+      "round2": "<p>Midway through, the party hears it: a wail from the northern rise. Not wind — the Bone-Singer. The party must move quickly and carefully before the Singer fully awakens and Barrow-Draugr begin rising from the ground around them. Kaelen says: \"Don't stop. Don't stop walking.\"</p><ul><li><strong>Agility:</strong> Sprint across an open bone-plate section, moving too fast for the Barrow-Draugr to track the vibration source.</li><li><strong>Intuition:</strong> Identify from the Singer's wail direction whether it has fully awoken them or is still searching — threading the gap.</li><li><strong>Reason:</strong> Recall that Root-Rune symbols on some of the giant bones might serve as wards — if activated (Reason, hard), the Barrow-Draugr near one section go dormant again.</li><li><strong>Presence:</strong> The Singer's wail causes dread. Keep the party focused and moving rather than freezing or scattering.</li></ul>"
+    },
+    "outcomes": {
+      "round1": "<p><strong>Total Success R1:</strong> The party navigates cleanly through the first third of the Bone-Fields. No Barrow-Draugr have stirred yet. Kaelen notes: \"The Rot is very old here. These bones have been rotting for centuries — slowly. Someone is accelerating it now.\"<br><strong>Partial Success R1:</strong> The party moves but takes a wrong turning. Add 2 hours to crossing time. One hero takes 3 psychic damage from the oppressive wrongness of the terrain.<br><strong>Failure R1:</strong> The party disturbs a bone-shelf, making significant noise. Underground, Barrow-Draugr stir. Count 1 toward failure track.</p>",
+      "round2": "<p><strong>Total Success:</strong> The party clears the Bone-Fields before the Barrow-Draugr fully rise. The Singer's wail fades behind them. To the north: the faint outline of the Ivory Tower. No combat. Kaelen: \"Someone is using the Rot to accelerate what should be slow. Something is weaponizing death itself.\"<br><strong>Partial Success:</strong> The party makes it through but three Barrow-Draugr fully rise and pursue them to the Fields' edge. They can run (Agility vs. Barrow-Draugr Might, party escapes without combat) or fight (2 Barrow-Draugr + 1 Bone-Singer — the Singer hangs back).<br><strong>Failure:</strong> The Bone-Singer's wail triggers the full encounter. Combat begins: 4 Barrow-Draugr rise from the ground to the south, 1 Bone-Singer on the northern rise. Director reads the Round 1 Interlude combat intro.</p>"
+    },
+    "participants": []
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

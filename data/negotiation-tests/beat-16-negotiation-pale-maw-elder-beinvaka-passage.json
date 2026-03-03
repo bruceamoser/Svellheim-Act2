@@ -1,0 +1,133 @@
+{
+  "_id": "YGsxFhtrAIUFPxLG",
+  "name": "Beat 16 — Pale Maw Elder (Beinvaka Passage)",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "Beat 16 — Pale Maw Elder (Beinvaka Passage)",
+    "createdAtIso": "2026-03-03T02:55:57.078Z",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<p>The Pale Maw enclave at Beinvaka is a former neutral trade post now controlled by entropy cultists. The inverted fire-pit at the center burns cold blues and sickly purples. Þráinn Ashward has already made his ultimatum \\u2014 but there is a third option: the Elder of Beinvaka, the actual administrative authority here. The Elder is not Þráinn. They are old, careful, and would prefer not to have a battle in their enclave.</p><p>This is the hardest negotiation in Act 2. Interest starts at 1 \\u2014 the Elder barely wants to speak with the party. Patience is only 2 \\u2014 two exchanges before they conclude the conversation. The party must be very careful. Four pitfalls will immediately reduce Interest or trigger automatic failure. Do not reveal Kaelen's identity under any circumstances.</p><p><strong>Context:</strong> The party does not need to win over the Elder completely \\u2014 they just need to reach Interest 3 or higher, which means the Elder agrees to let them pass through in exchange for a commitment not to return or send others this way.</p>",
+      "outcomes": {
+        "success": "<p><strong>Full Success (Interest reaches 4\\u20135):</strong> The Elder grants unrestricted passage through Beinvaka northward and agrees not to alert Þráinn or the network north. The party clears Beinvaka with no pursuit and no advance warning sent to Surt's Forge. When Þráinn later learns, his psychic wail goes north: \"The heretic flees!\" \\u2014 but the party is already past the point where it matters. Beat 18 Strike Team arrives with minimal information. </p>",
+        "partialSuccess": "<p><strong>Partial Success (Interest 2\\u20133 at Patience 0):</strong> The Elder allows the party to pass through Beinvaka northward under escort, asking no further questions. Þráinn is not pleased but defers to the Elder's authority for now. However, Þráinn separately sends a message north \\u2014 the party will face a more prepared Strike Team at Surt's Forge. The Mad Dash is no longer necessary but the advantage is partial.</p>",
+        "failure": "<p><strong>Failure (Interest reaches 0 or Kaelen's identity revealed):</strong> The Elder dismisses the party. \"There is nothing to negotiate.\" Þráinn is notified immediately. The Inquisitor deploys his forces \\u2014 combat is unavoidable. If Kaelen's identity was revealed (immediate fail), the Inquisitor is also notified north: Beat 18 Strike Team arrives fully prepared.</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": []
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "TMA8TQWFkjramOUd",
+        "actorUuid": "",
+        "displayName": "Pale Maw Elder of Beinvaka",
+        "kind": "npc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      }
+    ],
+    "npcStateByParticipantId": {
+      "TMA8TQWFkjramOUd": {
+        "interest": {
+          "value": 1,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 2,
+          "min": 0,
+          "max": 2
+        },
+        "motivations": [
+          {
+            "id": "QVmdS1FR2HmEjkJs",
+            "label": "Order and discipline — the Pale Maw at Beinvaka maintains a careful balance; disruption is unwelcome",
+            "revealed": false
+          },
+          {
+            "id": "EoeOQpVuFlRyuok3",
+            "label": "Entropy doctrine integrity — anything the party says must not contradict the Pale Maw's cosmological beliefs",
+            "revealed": false
+          },
+          {
+            "id": "vJT5tDjgnwHXZLGf",
+            "label": "Being treated with institutional respect (not dismissed as cultists, but engaged as a governing body)",
+            "revealed": false
+          },
+          {
+            "id": "U6RKuHg1vVaaB63L",
+            "label": "The north road remaining clear and undisrupted by conflict — the Pale Maw would prefer the party simply leave",
+            "revealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "BsGLCzShHSRgSpTy",
+            "label": "Defending the Ever-Ember or claiming the flame is good (entropy doctrine: flame is delusion)",
+            "revealed": false
+          },
+          {
+            "id": "zDaNqWHfnt8c0Hn9",
+            "label": "Claiming the Fimbulwinter should be stopped or that winter is wrong (the Pale Maw believe it is correct)",
+            "revealed": false
+          },
+          {
+            "id": "suE5CjkBtNhC6l2s",
+            "label": "Saying \"we'll save the world\" or similar heroic framing (immediate −1 Interest, possibly 2)",
+            "revealed": false
+          },
+          {
+            "id": "iSy2tFMQmCvoMf1C",
+            "label": "Revealing Kaelen's identity as a Keeper or that she carries the ember-mark (automatic negotiation failure — Þráinn is immediately notified)",
+            "revealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

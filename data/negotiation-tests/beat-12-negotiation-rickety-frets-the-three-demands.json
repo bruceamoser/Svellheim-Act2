@@ -1,0 +1,133 @@
+{
+  "_id": "8cq2kj3KLCPoTYWZ",
+  "name": "Beat 12 — Rickety Frets (The Three Demands)",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "Beat 12 — Rickety Frets (The Three Demands)",
+    "createdAtIso": "2026-03-03T02:55:09.589Z",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<p>The party has found the Bioluminescent Library — 100ft across, every inch carved with Root-Runes. At the center, Rickety Frets is waiting. They are a spirit-shade: very tall, very thin, cadaverous in faded paper-colored robes, ink-stained hands. They introduce themselves: \"I am Svellheim's historian when there was a Svellheim worth chronicling. Now I chronicle its ending.\"</p><p>Rickety Frets will not simply share information. They have been alone for too long, watching Svellheim die, and they have three demands that must be sworn before they help. The negotiation begins with their questions: What year is it? How is the world dying? Is there still a sky?</p><p>This is not a hostile negotiation — Frets wants to help. They simply need to know the party will honor their legacy before they trust them. Interest starts at 3 because they are already inclined to help anyone heading toward the Emberwell.</p>",
+      "outcomes": {
+        "success": "<p><strong>Full Success (Interest reaches 5):</strong> Rickety Frets swears themselves to the party's cause within the limits of their anchor. They share everything: the route through the Bone-Fields, the warning about the boundary thinness there, the Bundingsteinn's theft by Wyrd-Draugr 3 weeks ago, and the key revelation — \"The Keepers didn't keep the flame. They became the flame.\" They also provide the Three Demands oath text and provisions from the library (including the Bioluminescent Lantern). Kaelen enters Layer 2.</p>",
+        "partialSuccess": "<p><strong>Partial Success (Interest 3–4 at Patience 0):</strong> Rickety Frets shares the route and the basic warning but not the deeper lore about the Ever-Ember rite. The Bundingsteinn theft is mentioned but without the Wyrd-Draugr detail. The Three Demands are still sworn — Frets needs this too much to withhold it entirely.</p>",
+        "failure": "<p><strong>Failure (Interest reaches 0):</strong> Rickety Frets withdraws. \"You are not what I hoped. Go. I will not stop you — I simply will not help you.\" The party gets no lore, no route information, no Demands. They may attempt the route uninformed (harder navigation) and miss the key revelation about the Keepers.</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": []
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "65X4UdgvhrNG4P6K",
+        "actorUuid": "",
+        "displayName": "Rickety Frets",
+        "kind": "npc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      }
+    ],
+    "npcStateByParticipantId": {
+      "65X4UdgvhrNG4P6K": {
+        "interest": {
+          "value": 3,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 3,
+          "min": 0,
+          "max": 3
+        },
+        "motivations": [
+          {
+            "id": "dRQ4pcUXch1extYu",
+            "label": "Being remembered — not just their name, but that someone stayed and kept the record",
+            "revealed": false
+          },
+          {
+            "id": "fsGE6QabTDyf5bYb",
+            "label": "The survival of Svellheim's historical record (the library and its contents)",
+            "revealed": false
+          },
+          {
+            "id": "1SZtqzx02WJEzXqO",
+            "label": "The Bundingsteinn being protected or destroyed rather than falling to Grafvitnir",
+            "revealed": false
+          },
+          {
+            "id": "XOsTAwvjpwqaugoM",
+            "label": "Someone returning to report what happened after — closure, whatever form it takes",
+            "revealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "BJTPVwt73XcA6SF3",
+            "label": "Dismissing or minimizing what they've done (\"just\" a historian, \"just\" waited)",
+            "revealed": false
+          },
+          {
+            "id": "ef6GMAB6s01L72yj",
+            "label": "Treating the Three Demands as negotiable or asking to reduce them",
+            "revealed": false
+          },
+          {
+            "id": "0WBiQkUNGKTcQ3MY",
+            "label": "Expressing certainty that Svellheim will be restored (they've heard too many promises)",
+            "revealed": false
+          },
+          {
+            "id": "UWmRAJGEQSWpSeH9",
+            "label": "Rushing them or showing impatience with their questions about the outside world",
+            "revealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

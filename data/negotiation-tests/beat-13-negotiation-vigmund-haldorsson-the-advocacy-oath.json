@@ -1,0 +1,133 @@
+{
+  "_id": "gCgTmvRuiZQmSEDk",
+  "name": "Beat 13 — Vigmund Haldorsson (The Advocacy Oath)",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "Beat 13 — Vigmund Haldorsson (The Advocacy Oath)",
+    "createdAtIso": "2026-03-03T02:55:31.694Z",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<p>The party has arrived at Rindgate \\u2014 a fortified town now hosting 300 refugees. Vigmund Haldorsson, its Jarl, receives them cautiously in his hall. He is pragmatic, hardened, and deeply tired. He does not volunteer information or resources. He wants to know who the party is, where they're going, and why they're heading north when everyone sane is going south.</p><p>Interest starts at 4 because he is essentially well-disposed toward anyone heading toward the source of the problem rather than running from it \\u2014 but Patience is also 4, meaning he will lose patience quickly with evasion or idealism.</p><p><strong>Advocacy Oath mechanic:</strong> Full success requires the party to accept and swear the Advocacy Oath: to advocate for Rindgate's refugee population at Hrafnborg or any authority they encounter. Breaking this oath later costs \\u22121 Word. The oath will collide with Elder Thyra's Oath of Silence in Beat 17.</p>",
+      "outcomes": {
+        "success": "<p><strong>Full Success (Interest reaches 5):</strong> Vigmund provides: route maps north with cache locations marked, 5 days' rations for the group, a letter of passage for one Rindgate checkpoint north, and introduction to S\\u00f6ld\\u00eds Gl\\u00f3\\u00f0fari's caravan. The Advocacy Oath is sworn: the party commits to arguing for Rindgate's refugees at Hrafnborg. Vigmund: \"Swear to me. When you reach somewhere that has ears \\u2014 tell them Rindgate still holds.\" (\\u22121 Word if later broken.)</p>",
+        "partialSuccess": "<p><strong>Partial Success (Interest 3\\u20134 at Patience 0):</strong> Vigmund provides route information and basic intelligence. No official supplies, no letter of passage, no Advocacy Oath. He respects the party's mission but doesn't trust them enough to commit Rindgate's resources to them.</p>",
+        "failure": "<p><strong>Failure (Interest reaches 0):</strong> Vigmund closes the meeting. \"I have 300 people and not enough of anything. Strangers heading north are not my problem.\" No official supplies, no maps. The party may still pass through Rindgate (he won't stop them) but receives nothing. No Advocacy Oath is possible without a future renegotiation.</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": []
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "oIObibjqvZwR9z2M",
+        "actorUuid": "",
+        "displayName": "Vigmund Haldorsson",
+        "kind": "npc",
+        "role": "",
+        "isActive": true,
+        "notesGM": ""
+      }
+    ],
+    "npcStateByParticipantId": {
+      "oIObibjqvZwR9z2M": {
+        "interest": {
+          "value": 4,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 4,
+          "min": 0,
+          "max": 4
+        },
+        "motivations": [
+          {
+            "id": "FhrqmlIwPluVLMTY",
+            "label": "The survival and recognition of Rindgate's refugee population — they need to not be forgotten",
+            "revealed": false
+          },
+          {
+            "id": "q6cy7w1DWCbarYHA",
+            "label": "Practical resources: food, route intelligence, anything that keeps his people alive longer",
+            "revealed": false
+          },
+          {
+            "id": "yRkiJNrKxdQD2CUU",
+            "label": "Someone with authority to carry word of Rindgate's situation back to Hrafnborg",
+            "revealed": false
+          },
+          {
+            "id": "vlXMSlxJjoH704FF",
+            "label": "Reliability and honest dealing — he has been lied to too many times by people passing through",
+            "revealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "CbXHJhiaa3EkSTXP",
+            "label": "Making promises about saving Svellheim (he's heard it; he doesn't believe it)",
+            "revealed": false
+          },
+          {
+            "id": "V69oV7vxRSb7cudN",
+            "label": "Implying his situation is less urgent than the mission (it is not, to him)",
+            "revealed": false
+          },
+          {
+            "id": "eXrfpgtr1TpTzRdB",
+            "label": "Asking for resources without offering anything in return",
+            "revealed": false
+          },
+          {
+            "id": "ZdvICMV0JbDlTkWZ",
+            "label": "Being evasive about the mission's purpose or Kaelen's role",
+            "revealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

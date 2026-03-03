@@ -1,0 +1,183 @@
+{
+  "_id": "M987BFIBKBqs1yDA",
+  "name": "Act 2 — The Deep Road (Director Journal)",
+  "pages": [
+    {
+      "_id": "qg6HvKq25dQUH5l9",
+      "name": "Beat 10 — The Western Detour",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 10 — The Western Detour</h2><p><strong>Level:</strong> 3 &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-2/10-The-Western-Detour.adoc</code></p><h3>Overview</h3><p>The party departs Hrafnborg. The direct northern route is blocked — the Grafvitnir network has operatives at the mountain passes. Kaelen directs them west: coastal road to the Singing Islands, through the Echoing Caves, and into the Drowned Road below. Total distance: 120+ miles over 5–7 days.</p><h3>Grafvitnir Pressure Check</h3><p>Make a secret d6 roll as the party leaves Hrafnborg: <strong>1–2</strong> = nothing; <strong>3–5</strong> = Pale Maw scouts spot the party on the coastal road (add complication to first montage); <strong>6</strong> = a Pale Maw operative is embedded in Eldøy and alerts the network northwest.</p><h3>The Singing Islands</h3><p>Volcanic, geothermal, largely Vanir territory. Wind sings through stone arches carved by centuries of erosion. The Vanir here are wary but not hostile — the party is moving away from settled land, which suits them. <strong>Lysandre the Fishwife</strong> (Vanir elder): knows the tidal schedule for the Echoing Caves and the carved figure of Líf inside. <strong>Riku the Explorer</strong> (young, has a fragment map of the cave interior): can be persuaded to share it for a favor or a good story.</p><h3>The Echoing Caves</h3><p>Tidal passage behind a rocky outcrop, accessible only at low tide (2-hour window). Ancient carved corridor. At the far end: a carved figure of Líf holding water from her cupped hands. When the rite is spoken correctly, the passage beyond opens.</p><p>Run <strong>Beat 10 Cave Entrance Preparation</strong> montage (Moderate, SL 4 / FL 2) before entry.</p><h3>Jarðvættr Encounter</h3><p>Terrain: stone terraces, four active steam vents, irrigation channels carved by the Vanir centuries ago. The Jarðvættr (Vent-Warden) is not aggressive on entry — it reacts to disturbance.</p><div style=\"background:#1a2a1a;color:#c0e0c0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #44aa44;\"><strong>Mercy Path (recommended):</strong> If the party defeats the Jarðvættr without killing it (reduce to 0 SP, use a Presence/Intuition test to attempt mercy), it acknowledges their restraint. Reward: <strong>Jarðvættr's Gift</strong> (spiritual imprint, edge on navigation/ancient places for Act 2) + <strong>2V</strong> + double supplies. Vanir Word: <strong>+1</strong>.</div><div style=\"background:#2a1a1a;color:#e0c0c0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #aa4444;\"><strong>Kill Path:</strong> <strong>1V</strong>, standard supplies. Vanir Word: <strong>−1</strong>. No Gift.</div><h3>NPCs</h3><ul><li><strong>Lysandre the Fishwife:</strong> Vanir elder. Knows caves intimately. Will share tidal schedule if party treats the Singing Islands with respect. Warns: \"The stone remembers who asked permission.\"</li><li><strong>Riku the Explorer:</strong> Young, curious, has a cave fragment map. Will trade it for a favor (deliver a message, bring back a rubbing of a specific Root-Rune).</li></ul><h3>Player Handout</h3><p>Deliver <em>\"The Echoing Caves Entrance\"</em> — the party's first sight of the cave opening behind the rocky outcrop.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 10,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "eaepWoooUaDSM0up",
+      "name": "Beat 11 — The Drowned Road",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 11 — The Drowned Road</h2><p><strong>Level:</strong> 3 &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-2/11-The-Drowned-Road.adoc</code></p><h3>Overview</h3><p>Three days of flooded cave descent. The Drowned Road is an ancient passage system carved before the Keeper Order existed — Root-Rune corridors that predate everything Kaelen was trained to recognize. Bioluminescent organisms light the deeper chambers.</p><h3>Structure</h3><p>Two montage tests bracket a scripted narrative beat:</p><ol><li><strong>Beat 11 — The First Three Days</strong> (Hard, SL 6 / FL 3): Navigation, concealment in the bioluminescent grotto, draugr column observation.</li><li><strong>Narrative Beat:</strong> The Draugr Column discovery.</li><li><strong>Beat 11 — Deeper Descent</strong> (Hard, SL 4 / FL 2): Rot passages, Rot-Echo avoidance.</li></ol><h3>The Bioluminescent Grotto</h3><p>100ft across. Every inch carved with Root-Runes — but older than anything Kaelen knows. Read-aloud for Kaelen's reaction: <em>\"These are Root-Runes. But this is older. Someone was here before the Keepers.\"</em> This is her first Layer 1 revelation.</p><h3>The Draugr Column (Narrative — No Combat)</h3><p>30–40 draugr, marching in organized formation heading east. <strong>Not wandering. Not hunting. Marching.</strong> This is the first proof in the campaign that the dead are being directed by an intelligence, not merely animated by hunger.</p><p>Kaelen's interpretation (share this after the column has passed): <em>\"If the dead can think, they can plan. Something intelligent is organizing them.\"</em></p><div style=\"background:#2a1a2a;color:#e0c0e0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #884488;\"><strong>Director Secret:</strong> The column is moving to reinforce Grafvitnir's positions north of the Bone-Fields. They are using the Drowned Road as a supply corridor — faster than surface routes in Fimbulwinter conditions. The party has just walked into an active military logistics route.</div><h3>Wolf Pack Combat (Beat 11 Part 3)</h3><p>On the third day, a pack of <strong>6 Blind Draugr Wolves</strong> + <strong>1 Dire Draugr Wolf</strong> (Elite) ambushes the party from collapsed side chambers. The Dire Draugr Wolf uses the darkness — it can see by scent and vibration; the party cannot.</p><p><strong>Terrain:</strong> Narrow flooded passage, columns of stone, 2ft of standing water in half the chamber. The Blind Draugr Wolves spread through the water; the Dire Draugr Wolf stays on raised stone.</p><p><strong>ES:</strong> ~56 for a 4-hero party. Hard combat — the first real test of Act 2.</p><h3>Rot Visibility</h3><p>On the walls throughout: black veins running through the stone, Root-Runes cracked and screaming silently. Kaelen: <em>\"Yggdrasil's roots are literally rotting. Not metaphorically. The world's circulatory system is dying.\"</em></p><h3>Player Handout</h3><p>Deliver <em>\"The Old Roads Are Being Used\"</em> — the party's perspective watching the draugr column march past in organized formation.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 20,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "9gzRMxEZnsYyRaN5",
+      "name": "Beat 12 — Rickety Frets",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 12 — Rickety Frets</h2><p><strong>Level:</strong> 3 → <strong>Level-Up to 4</strong> &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-2/12-Rickety-Frets.adoc</code></p><h3>Overview</h3><p>The party emerges into the Bioluminescent Library — a columned chamber of ancient carved tablets and thousands of records, lit by a central firepit that is never quite dead. Rickety Frets awaits.</p><h3>Three Approach Options to the Wyrd-Draugr</h3><p>Before reaching Frets, the party must deal with the chamber's guardian: <strong>1 Wyrd-Draugr</strong> + <strong>6 Draugr-Thralls</strong> blocking the inner sanctum.</p><ol><li><strong>Combat:</strong> Standard fight. ES ~44. Wyrd-Draugr is the priority — it is directing the Thralls and has ranged telekinetic abilities.</li><li><strong>Stealth:</strong> Agility/Intuition montage to slip past (the Thralls are stationary, the Wyrd-Draugr patrols). Failure triggers combat.</li><li><strong>Kaelen's Ember-Mark:</strong> If Kaelen approaches alone and speaks a Keeper rite, the Wyrd-Draugr pauses — 1 round of hesitation. The party may capitalize on this for advantage in combat round 1, or use it to negotiate passage (Hard Presence test).</li></ol><h3>Rickety Frets — Running the Negotiation</h3><p>Open with their three questions (answer honestly): <em>What year is it? How is the world dying? Is there still a sky?</em></p><p>Run <strong>Beat 12 — Rickety Frets Negotiation</strong> (Moderate, Interest 3, Patience 3). The Three Demands must be sworn as part of reaching full success:</p><ol><li>Remember them — not just the name, but that someone stayed.</li><li>Send word back after. Whatever form that takes.</li><li>Protect or destroy the Bundingsteinn. Do not let Grafvitnir have it.</li></ol><p><strong>Key revelations on success:</strong></p><ul><li>Bundingsteinn stolen 3 weeks ago by a reaching arm that did not cross the threshold — a Wyrd-Draugr acting for Grafvitnir.</li><li><em>\"The flame does not burn without fuel. The Keeper serves the flame. You may be asked to give yourself.\"</em></li><li>Kaelen reads the Keeper section of a tablet: <em>\"The Keepers didn't keep the flame. They became the flame.\"</em> She goes quiet. This is her Layer 2 trigger.</li><li>Route warning: <em>\"The route goes through the Bone-Fields. The boundary is thin there. Do not stop walking.\"</em></li></ul><div style=\"background:#2a1a1a;color:#e0c0c0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #aa4444;\"><strong>Kaelen Layer 2 — Director Note:</strong> She does not speak about what she read for the rest of this beat. If a hero directly asks, she says: \"I need to sit with it.\" She will not discuss it until Beat 15 (Ivory Tower). Do not rush this.</div><h3>Provisions</h3><p>On success: Frets directs the party to a cache — preserved food, the <strong>Bioluminescent Lantern</strong>, writing materials, and a rubbing of the route map carved into the library floor.</p><h3>Level-Up</h3><p>The party reaches Level 4 here or shortly after leaving the library. Natural threshold: completing the Three Demands oath and gaining access to the Keeper lore marks the party's graduation from \"people with a mission\" to \"people who understand what the mission actually costs.\"</p><h3>Player Handout</h3><p>Deliver <em>\"Rickety Frets's Three Demands\"</em> — the oath the party swore.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 30,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Kc0Nso1CrdkfmE14",
+      "name": "Beat 13 — Emergence — Rindgate",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 13 — Emergence: Rindgate</h2><p><strong>Level:</strong> 4 &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-2/13-Emergence-Rindgate.adoc</code></p><h3>Overview</h3><p>The party emerges from the cave system at a rocky promontory overlooking Rindgate. Outside for the first time in days — the light hurts. Below: hundreds of refugees outside Rindgate's walls, unable or unwilling to enter. Two frozen lakes dominate the approach.</p><h3>The Two Lakes</h3><ul><li><strong>Hornvatn:</strong> Solid ice. Regular depressions worn into the surface — something has been walking circuits on the ice. Patrol pattern, not random.</li><li><strong>Urdvatn:</strong> Thin ice, steam rising. A longship-sized shadow moves deliberately beneath. Kaelen: <em>\"We don't go near the lakes. If what's in them realizes we've seen it, it will follow.\"</em></li></ul><p>Run <strong>Beat 13 — Skirting the Lakes</strong> montage (Hard Short, SL 3 / FL 1). Failure triggers Lakewalker Draugr combat (3 Lakewalker Draugr, ES ~24).</p><div style=\"background:#2a1a2a;color:#e0c0e0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #884488;\"><strong>Urdvatn — Director Secret:</strong> The shadow under Urdvatn is not named in this campaign. It bows the ice upward once if the party lingers, then resumes its circuit. It is ancient, aware, and has its own agenda. It will not be explained. If players press Kaelen: <em>\"I don't know what that is. Neither did the Keepers.\"</em></div><h3>Söldís Glóðfari's Caravan</h3><p>The caravan is parked at Rindgate's south gate — last stop before the north. The caravan cannot follow further. Each merchant offers one benefit:</p><ul><li><strong>Ketil:</strong> Repairs or improves 1 piece of equipment (free, one use).</li><li><strong>Hallur:</strong> Intel on Chainwarden presence north — +1 edge on navigation/stealth tests in Beat 14.</li><li><strong>Dagur:</strong> Knowledge of northern conditions — +1 edge on one test of party's choice.</li><li><strong>Söldís:</strong> <em>\"If you find a flame that shouldn't still be burning — don't put it out.\"</em> She says this as if it is casual advice. It is not.</li><li><strong>Óttar:</strong> Restless, jealous of the mission. May be a problem later (GM note: he could feed information to Pale Maw contacts if left unsupervised).</li><li><strong>Svanhildr:</strong> Has not been sick once since joining the caravan. No explanation given.</li></ul><h3>Vigmund Negotiation</h3><p>Run <strong>Beat 13 — Vigmund Haldorsson Negotiation</strong> (Moderate, Interest 4, Patience 4). Full success yields: maps, 5 days' rations, letter of passage, introduction to Söldís, and the <strong>Advocacy Oath</strong>.</p><p><strong>Advocacy Oath:</strong> Party swears to advocate for Rindgate's 300 refugees at Hrafnborg or any authority they reach. Breaking this costs <strong>−1 Word</strong>. This oath will collide with Elder Thyra's Oath of Silence in Beat 17 — there is no clean resolution.</p><h3>Player Handout</h3><p>Deliver <em>\"Vigmund's Two Oaths\"</em> — the information oath and the Advocacy Oath text.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 40,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "g8zfnxngx4HS50dz",
+      "name": "Beat 14 — The Bone-Fields",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 14 — The Bone-Fields</h2><p><strong>Level:</strong> 4 &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-2/14-The-Bone-Fields.adoc</code></p><h3>Overview</h3><p>The Bone-Fields: a vast ancient battlefield where the bones of giants and soldiers have calcified into the landscape itself over centuries. The transition is gradual — grass dies, snow becomes sterile, the smell of age replaces cold air. Then: white in every direction. Not pristine white.</p><h3>Read-Aloud (Entry)</h3><blockquote><em>\"You are stepping onto a landscape of white. Not pristine white, but the white of calcified bone. Enormous ribcages arch overhead like the ruins of cathedrals. Small human bones are underfoot — you cannot walk without stepping on them. The snow here is sterile. Nothing grows. The silence has weight.\"</em></blockquote><h3>Montage</h3><p>Run <strong>Beat 14 — The Bone-Fields Crossing</strong> (Hard, SL 5 / FL 3). Failure triggers the Barrow-Draugr + Bone-Singer encounter.</p><h3>Combat Encounter (Montage Failure or Director's Choice)</h3><p><strong>Round 1 Interlude Read-Aloud:</strong> <em>\"The ground shifts. Not an earthquake — localized. Three sections of bone-shelf crack upward simultaneously. Barrow-Draugr pulling themselves free. From the northern rise, a sound that is not quite a voice: the Bone-Singer has found you.\"</em></p><p><strong>Composition:</strong> 4 Barrow-Draugr (rise from ground, start adjacent to random heroes) + 1 Bone-Singer (on northern rise, 60ft away, stays at range). ES ~44.</p><p><strong>Bone-Singer Tactics:</strong> Never closes to melee. Uses Resonance Wail to buff Barrow-Draugr and frighten heroes. If the Singer falls, remaining Barrow-Draugr lose their bonus and become standard brutes.</p><p><strong>Post-combat:</strong> The Bone-Singer's corpse is more shadow than substance — it partially dissolves. To the north: the faint outline of the Ivory Tower is visible for the first time.</p><h3>Key Dialogue</h3><ul><li><strong>Kaelen (mid-crossing):</strong> <em>\"Someone is using the Rot to accelerate what should be slow. Something is weaponizing death itself.\"</em></li><li><strong>Lew (if party pauses):</strong> <em>\"I've crossed the Bone-Fields twice before. Never like this. The dead aren't just dying worse — they're being made into something worse.\"</em></li></ul><h3>Level-Up Window</h3><p>If the party has not yet reached Level 4, this is the natural threshold — completing the Bone-Fields crossing and seeing the Ivory Tower for the first time marks the transition.</p><h3>Route Choice</h3><p>After crossing: north (more Bone-Fields), northeast (Ivory Tower, slight detour), south (long escape). The party should choose the Ivory Tower — Kaelen will suggest it if they hesitate.</p><h3>Player Handout</h3><p>Deliver <em>\"The Bone-Fields\"</em> — description of the ancient battlefield and its wrongness.</p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 50,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}
