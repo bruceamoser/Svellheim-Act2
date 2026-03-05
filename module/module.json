@@ -1,0 +1,62 @@
+{
+  "id": "svellheim-act2",
+  "title": "Svellheim: Act 2 — The Deep Road",
+  "description": "Act 2 of the Svellheim campaign for the Draw Steel system. Contains montage tests, negotiation tests, player journals, and director journals for The Deep Road storyline.",
+  "url": "https://github.com/bruceamoser/Svellheim-Act2",
+  "manifest": "https://github.com/bruceamoser/Svellheim-Act2/releases/latest/download/module.json",
+  "download": "https://github.com/bruceamoser/Svellheim-Act2/releases/download/v0.1.3/svellheim-act2-v0.1.3.zip",
+  "version": "0.1.3",
+  "authors": [
+    {
+      "name": "Bruce A. Moser"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "draw-steel"
+      }
+    ],
+    "requires": [
+      {
+        "id": "svellheim-entities",
+        "type": "module",
+        "manifest": "https://github.com/bruceamoser/Svellheim-Entities/releases/latest/download/module.json"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "svellheim-act2-montage-tests",
+      "label": "Svellheim Act 2: Montage Tests",
+      "path": "packs/svellheim-act2-montage-tests",
+      "type": "Item",
+      "system": "draw-steel"
+    },
+    {
+      "name": "svellheim-act2-negotiation-tests",
+      "label": "Svellheim Act 2: Negotiation Tests",
+      "path": "packs/svellheim-act2-negotiation-tests",
+      "type": "Item",
+      "system": "draw-steel"
+    },
+    {
+      "name": "svellheim-act2-player-journals",
+      "label": "Svellheim Act 2: Player Journals",
+      "path": "packs/svellheim-act2-player-journals",
+      "type": "JournalEntry",
+      "system": "draw-steel"
+    },
+    {
+      "name": "svellheim-act2-director-journals",
+      "label": "Svellheim Act 2: Director Journals",
+      "path": "packs/svellheim-act2-director-journals",
+      "type": "JournalEntry",
+      "system": "draw-steel"
+    }
+  ]
+}
