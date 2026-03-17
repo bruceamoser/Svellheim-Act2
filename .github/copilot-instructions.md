@@ -29,3 +29,7 @@ Story beat data for **Act 2** of the Svellheim campaign (Beats 10–18).
 - File naming: `beat-{NN}-{slug}.json` (e.g., `beat-14-war-council.json`)
 - Encoding: UTF-8 without BOM
 - Known issue: some journals have mojibake (`â€"` → `—`) — fix during encoding pass
+
+## Issue Workflow
+
+See [bruceamoser/Era-of-Embers CONTRIBUTING.md](https://github.com/bruceamoser/Era-of-Embers/blob/main/CONTRIBUTING.md) for the full issue workflow SOP — branch naming, commit conventions, PR process, and release procedures apply to all workspace repos.
